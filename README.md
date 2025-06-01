@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I’m Samer</h1>
 
-<p align="center"><strong>Frontend Developer | Computer Science Student</strong></p>
+<p align="center"><strong>Frontend Developer</strong></p>
 
 <!-- Skills section with badges -->
 <p align="center">
@@ -21,7 +21,6 @@
 
 <h2>About me 😄</h2>
 
-<p><strong>Hey! I’m Samer, a passionate frontend developer and computer science student.</strong></p>
 <ul>
   <li>🎓 CS student building web apps with modern tech</li>
   <li>💻 Love turning cool ideas into responsive, interactive UIs</li>
