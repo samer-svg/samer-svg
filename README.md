@@ -30,7 +30,9 @@
 </ul>
 
 <h2>📫 Let’s Connect</h2>
-<ul>
-  <li><strong>GitHub:</strong> <a href="https://github.com/samer-svg">samer-svg</a></li>
-  <li><strong>Email:</strong> <a href="mailto:sameralyaghn547@gmail.com">sameralyaghn547@gmail.com</a></li>
-</ul>
+<p align="center">
+<br>	
+<a target="_blank" href=""><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white"></a>
+<a target="_blank" href="mailto:sameralyaghn547@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white"></a>
+<br>
+</p>
