@@ -22,7 +22,6 @@
 <h2>About me 😄</h2>
 
 <ul>
-  <li>🎓 CS student building web apps with modern tech</li>
   <li>💻 Love turning cool ideas into responsive, interactive UIs</li>
   <li>🌱 Currently learning more about UI/UX and JavaScript frameworks</li>
   <li>🔭 Always open to collaborations and side projects!</li>
