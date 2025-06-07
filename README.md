@@ -12,7 +12,6 @@
 - 🌱 I'm learning n8n (automation AI Agents)
 - 💬 Ask me about JavaScript, React, and UI/UX design
 - 📫 How to reach me: sameralyaghn547@gmail.com
-- ⚡ Fun fact: [Interesting Fact About You]
 
 ### 🛠️ Skills
 
