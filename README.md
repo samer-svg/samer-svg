@@ -39,7 +39,7 @@ It showcases my latest projects, skills, and what I’m currently building.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Zod](https://img.shields.io/badge/-Zod-3C3C3C?style=flat-square&logo=typescript&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=flat-square&logo=react&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=JSON&logoColor=white)
 
 #### 🛠️ JS Tools
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
