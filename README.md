@@ -10,8 +10,8 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on dynamic dashboard projects
-- 🌱 Learning n8n for building automation AI Agents
+- 🔭 Currently working on backend 
+- 🌱 Learning express js to build full stack applications 
 - 💬 Ask me about JavaScript, React, and UI/UX design
 - 📫 Reach me at: **sameralyaghn547@gmail.com**
 
