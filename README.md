@@ -38,6 +38,7 @@ It showcases my latest projects, skills, and what I’m currently building.
 
 #### 🧠 AI Tools  
 ![Flowise](https://img.shields.io/badge/-Flowise-00A67E?style=flat-square) ![Cursor](https://img.shields.io/badge/-Cursor-5B5FC7?style=flat-square)
+n8n](https://img.shields.io/badge/-n8n-EE982F?style=flat-square&logo=n8n&logoColor=white)
 
 #### 🛠️ JS Tools  
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
