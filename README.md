@@ -37,7 +37,8 @@ It showcases my latest projects, skills, and what I’m currently building.
 ![REST API](https://img.shields.io/badge/-REST_API-000000?style=flat-square&logo=api&logoColor=white)
 
 #### 🧠 AI Tools  
-![Flowise](https://img.shields.io/badge/-Flowise-00A67E?style=flat-square) ![Cursor](https://img.shields.io/badge/-Cursor-5B5FC7?style=flat-square)
+![Flowise](https://img.shields.io/badge/-Flowise-00A67E?style=flat-square)
+[![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square)](https://img.shields.io/badge/-Cursor-000000?style=flat-square)
 
 #### 🛠️ JS Tools  
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
